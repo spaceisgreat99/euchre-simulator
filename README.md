@@ -1,4 +1,2 @@
 # euchre-simulator
-To use, open up tester.java and modify the user input variables at the top as desired, then build and run the the tester class.
-
-This code is quite old and I am developing a new version.
+DEPRECATED: For a newer, more advanced version, see: https://github.com/spaceisgreat99/euchre-simulator-2
